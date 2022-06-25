@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094035010721",
+    "project_id": "flash-chat-80117",
+    "storage_bucket": "flash-chat-80117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094035010721:android:d447b54b0fefa2196bace0",
+        "android_client_info": {
+          "package_name": "co.eyepatch.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094035010721-4o3b1rki22drrcebf3pqvgc9uupbitd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeB2r3_g_pUU7LWBdXzjPmmZIm-gqeQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094035010721-4o3b1rki22drrcebf3pqvgc9uupbitd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
